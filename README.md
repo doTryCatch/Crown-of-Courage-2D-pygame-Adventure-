@@ -32,3 +32,7 @@ To run this game locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/brave-quest-rescue-mission.git
    ```
+2. **Navigate to the file location:**
+   ```bash
+   python main.py // to run the game
+   ```
